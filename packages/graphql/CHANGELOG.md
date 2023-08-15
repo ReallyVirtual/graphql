@@ -1,5 +1,11 @@
 # @neo4j/graphql
 
+## 4.0.0-beta.2
+
+### Patch Changes
+
+-   [#3758](https://github.com/neo4j/graphql/pull/3758) [`e9bf1e619`](https://github.com/neo4j/graphql/commit/e9bf1e619ee71ead228530a9d46834a655686c6d) Thanks [@darrellwarde](https://github.com/darrellwarde)! - `cypherParams` added to the `Neo4jGraphQLContext` type, and the fields within it can be referred to directly.
+
 ## 4.0.0-beta.1
 
 ### Patch Changes
