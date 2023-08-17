@@ -3,7 +3,7 @@
 
 This example demonstrates how you might use the OGM without exposing a Neo4j GraphQL API endpoint. The example starts an https://expressjs.com/[Express] server and uses the OGM to interact with the Neo4j GraphQL Library, exposed over a REST endpoint.
 
-First, create your example application directory, create a new project and also the file which will contain yur application code:
+First, create your example application directory, create a new project and also the file which will contain your application code:
 
 [source, bash, indent=0]
 ----
